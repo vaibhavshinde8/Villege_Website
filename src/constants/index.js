@@ -43,13 +43,13 @@ export const missionVision = [
     {
         id: 1,
         title: 'Our Mission',
-        text: 'At school, our mission is to provide a dynamic and inclusive learning environment that fosters academic excellence, creativity, and personal growth. We are dedicated to cultivating a community of learners who are inspired to reach their highest potential and become compassionate global citizens.',
+        text: 'In our village, our mission is to create a strong and caring community where everyone can live happily and grow. We want to provide opportunities for everyone, while also respecting our traditions and working together for a better future.',
         icon: <FaAngleDoubleDown />,
     },
     {
         id: 2,
         title: 'Our Vision',
-        text: 'At school, our vision is driven by a passion for excellence in education and a dedication to creating a nurturing environment where every student can thrive. We strive to be a beacon of educational innovation, setting new standards for academic excellence and holistic development.',
+        text: 'Our vision is to make our village a place where everyone has what they need to live a good life. We want a community that helps each other, values the past, and looks forward to a bright, sustainable future, while ensuring that future generations.',
         icon: <FaAngleDoubleDown />,
     },
 ];
